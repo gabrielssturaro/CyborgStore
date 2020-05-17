@@ -1,0 +1,96 @@
+#Navbarzinha{
+    background-color: rgb(0, 0, 0) !important;
+}
+#Texto{
+    color: rgb(255, 0, 0);
+}
+#Botao{
+    background-color: white;
+    cursor: pointer;
+}
+aside{
+    display: flex;
+    flex-direction: row;
+}
+#botaozin{
+    background-color: black;
+    color: red;
+    border: none;
+    cursor: pointer;
+}
+#div-botao{
+    display: flex;
+    align-items: center;
+}
+#promocao{
+    background-color: black;
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+#forms{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px; 
+}
+#botaozinho{
+    padding: 10px;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#pagamento{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+#botao2{
+    color: red;
+    cursor: pointer;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    flex-direction: column;
+}
+#botao3{
+    color: white;
+    cursor: pointer;
+}
+#container-ico2{
+    width: 220px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#ico2{
+    width: 50px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.200);
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+#ico2 img{
+    width: 30px;
+    color: black;
+}
+#ico2:hover{
+    background-color: #fc0000;
+}
+#sobrenos{
+    display: flex;
+    flex-direction: column;
+    padding-left: 150px;
+    padding-right: 150px;
+}
